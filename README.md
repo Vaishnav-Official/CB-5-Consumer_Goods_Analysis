@@ -51,10 +51,6 @@ AtliQ Hardwares' executive team lacked timely insights for strategic decision-ma
 - **CSV/Excel** – Data exploration
 - **PDF** – Final report documentation
 
-## 📽️ Optional: Audio/Video Presentation
-
-An optional narrated walkthrough of the presentation was created to demonstrate communication skills and enhance engagement. (Available upon request.)
-
 ## 🙌 Acknowledgments
 
 Special thanks to CodeBasics and AtliQ Hardwares for designing a practical and insightful challenge. This project was a valuable opportunity to apply SQL and business analytics in a real-world context.
